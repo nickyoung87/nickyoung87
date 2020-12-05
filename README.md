@@ -1,1 +1,1 @@
-![nickyoung87's github stats](https://github-readme-stats.vercel.app/api?username=nickyoung87&theme=algolia&show_icons=true&hide=stars,contribs,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickyoung87&layout=compact&theme=algolia)
+![nickyoung87's github stats](https://github-readme-stats.vercel.app/api?username=nickyoung87&count_private=true&theme=algolia&show_icons=true&hide=stars,contribs,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickyoung87&layout=compact&theme=algolia)
