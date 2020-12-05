@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nyoung87)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nickyoung87/nickyoung87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
