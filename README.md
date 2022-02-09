@@ -1,1 +1,1 @@
-![nickyoung87's github stats](https://github-readme-stats.vercel.app/api?username=nickyoung87&count_private=true&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickyoung87&layout=compact&theme=dark)
+![nickyoung87's github stats](https://github-readme-stats.vercel.app/api?username=nickyoung87&count_private=true&theme=dark&show_icons=true)
